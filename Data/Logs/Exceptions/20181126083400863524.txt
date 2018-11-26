@@ -1,0 +1,6 @@
+Exception: Argument 1 passed to Neos\Neos\Service\PublishingService_Original::publishNode() must implement interface Neos\ContentRepository\Domain\Model\NodeInterface, null given
+
+
+
+    [array] => 
+

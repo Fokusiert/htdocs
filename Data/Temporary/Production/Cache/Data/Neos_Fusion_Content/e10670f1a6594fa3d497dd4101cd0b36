@@ -1,0 +1,67 @@
+
+
+<div class="language-menu">
+	<div>
+		
+			
+		
+			
+		
+			<span class="language-menu-full">German</span><span class="language-menu-short" title="German"></span>
+		
+			
+		
+			
+		
+			
+		
+			
+		
+		<span>▼</span>
+	</div>
+	<ul>
+	
+		<li class="normal">
+			
+					<a href="/@user-janina;language=en_US"><span class="language-menu-full">English (US)</span><span class="language-menu-short" title="English (US)"></span></a>
+				
+		</li>
+	
+		<li class="normal">
+			
+					<a href="/uk@user-janina;language=en_UK,en_US"><span class="language-menu-full">English (UK)</span><span class="language-menu-short" title="English (UK)"></span></a>
+				
+		</li>
+	
+		<li class="current">
+			
+					<a href="/de@user-janina;language=de"><span class="language-menu-full">German</span><span class="language-menu-short" title="German"></span></a>
+				
+		</li>
+	
+		<li class="normal">
+			
+					<a href="/fr@user-janina;language=fr"><span class="language-menu-full">French</span><span class="language-menu-short" title="French"></span></a>
+				
+		</li>
+	
+		<li class="normal">
+			
+					<a href="/nl@user-janina;language=nl,de"><span class="language-menu-full">Dutch</span><span class="language-menu-short" title="Dutch"></span></a>
+				
+		</li>
+	
+		<li class="normal">
+			
+					<a href="/da@user-janina;language=da"><span class="language-menu-full">Danish</span><span class="language-menu-short" title="Danish"></span></a>
+				
+		</li>
+	
+		<li class="normal">
+			
+					<a href="/lv@user-janina;language=lv"><span class="language-menu-full">Latvian</span><span class="language-menu-short" title="Latvian"></span></a>
+				
+		</li>
+	
+	</ul>
+</div>NodeType_%eb4cb258bd0e2ca71beaa6ac313b3c48%_Neos_Neos-Document0             1614      

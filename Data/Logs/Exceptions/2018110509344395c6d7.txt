@@ -1,0 +1,6 @@
+Exception in line 146 of C:\Bitnami\neos-4.1.7-neu\apps\neos\htdocs\Data\Temporary\Production\Cache\Code\Flow_Object_Classes\Neos_Neos_Ui_TypeConverter_ChangeCollectionConverter.php: Argument 1 passed to Neos\Neos\Ui\Domain\Model\AbstractChange::setSubject() must implement interface Neos\ContentRepository\Domain\Model\NodeInterface, null given, called in C:\Bitnami\neos-4.1.7-neu\apps\neos\htdocs\Data\Temporary\Production\Cache\Code\Flow_Object_Classes\Neos_Neos_Ui_TypeConverter_ChangeCollectionConverter.php on line 146
+
+
+
+    [array] => 
+

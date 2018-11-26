@@ -1,0 +1,22 @@
+
+
+	<nav class="nav" role="navigation">
+		<ul class="nav nav-pills">
+			
+				<li class="normal">
+					<a href="/de/fotografie/hochzeit@user-janina;language=de.html">Hochzeit</a>
+				</li>
+			
+				<li class="normal">
+					<a href="/de/fotografie/kinderfotografie@user-janina;language=de.html">Newborn/Kinder</a>
+				</li>
+			
+				<li class="current">
+					<a href="/de/fotografie/portrait-1@user-janina;language=de.html">Portrait</a>
+				</li>
+			
+		</ul>
+	</nav>
+
+
+NodeType_%eb4cb258bd0e2ca71beaa6ac313b3c48%_Neos_Neos-Document0             464       

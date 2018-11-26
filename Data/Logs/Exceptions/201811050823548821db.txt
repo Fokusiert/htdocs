@@ -1,0 +1,83 @@
+Exception #1414771137 in line 174 of C:\Bitnami\neos-4.1.7-neu\apps\neos\htdocs\Data\Temporary\Production\Cache\Code\Flow_Object_Classes\Neos_Neos_ViewHelpers_Link_NodeViewHelper.php: Could not resolve shortcut target for node "/sites/neosdemo/node-3kpaopv514yoe"
+
+54 Neos\Neos\Service\LinkingService_Original::createNodeUri(Neos\Flow\Mvc\Controller\ControllerContext, Neos\ContentRepository\Domain\Model\Node, NULL, NULL, false, array|0|, "", false, array|0|, true)
+53 Neos\Neos\ViewHelpers\Link\NodeViewHelper_Original::render(Neos\ContentRepository\Domain\Model\Node, NULL, false, array|0|, "", false, array|0|, "documentNode", "linkedNode", true)
+52 call_user_func_array(array|2|, array|10|)
+51 Neos\FluidAdaptor\Core\ViewHelper\AbstractViewHelper::callRenderMethod()
+50 TYPO3Fluid\Fluid\Core\ViewHelper\AbstractViewHelper::initializeArgumentsAndRender()
+49 TYPO3Fluid\Fluid\Core\ViewHelper\ViewHelperInvoker::invoke("Neos\Neos\ViewHelpers\Link\NodeViewHelper", array|25|, Neos\FluidAdaptor\Core\Rendering\RenderingContext, Closure)
+48 TYPO3Fluid\Fluid\Core\ViewHelper\AbstractViewHelper::renderStatic(array|25|, Closure, Neos\FluidAdaptor\Core\Rendering\RenderingContext)
+47 Frontend_Node_action_show_64c98ca82cde121c076034ef960ff33f326303bf::{closure}()
+46 TYPO3Fluid\Fluid\ViewHelpers\ForViewHelper::renderStatic(array|5|, Closure, Neos\FluidAdaptor\Core\Rendering\RenderingContext)
+45 Frontend_Node_action_show_64c98ca82cde121c076034ef960ff33f326303bf::section_a1d0c67e66bff372f088d05bb40a9d0d493b8993(Neos\FluidAdaptor\Core\Rendering\RenderingContext)
+44 TYPO3Fluid\Fluid\View\AbstractTemplateView::renderSection("itemList", array|2|, false)
+43 Neos\FluidAdaptor\View\AbstractTemplateView::renderSection("itemList", array|2|, false)
+42 TYPO3Fluid\Fluid\ViewHelpers\RenderViewHelper::renderStatic(array|8|, Closure, Neos\FluidAdaptor\Core\Rendering\RenderingContext)
+41 Frontend_Node_action_show_64c98ca82cde121c076034ef960ff33f326303bf::render(Neos\FluidAdaptor\Core\Rendering\RenderingContext)
+40 TYPO3Fluid\Fluid\View\AbstractTemplateView::render()
+39 Neos\Fusion\FusionObjects\TemplateImplementation_Original::evaluate()
+38 Neos\Fusion\Core\Runtime_Original::evaluateObjectOrRetrieveFromCache(Neos\Neos\Fusion\MenuImplementation, "landingPage<Neos.NodeTypes:Page>/body<Neos.Fusion:Template>/parts/mainMenu", array|16|, array|6|)
+37 Neos\Fusion\Core\Runtime_Original::evaluateInternal("landingPage<Neos.NodeTypes:Page>/body<Neos.Fusion:Template>/parts/mainMenu", "NULL", Neos\Fusion\FusionObjects\TemplateImplementation)
+36 Neos\Fusion\Core\Runtime_Original::evaluate("landingPage<Neos.NodeTypes:Page>/body<Neos.Fusion:Template>/parts/mainMenu", Neos\Fusion\FusionObjects\TemplateImplementation)
+35 Neos\Fusion\FusionObjects\Helpers\FusionPathProxy_Original::objectAccess()
+34 Neos\FluidAdaptor\Core\ViewHelper\TemplateVariableContainer::getByPath("parts.mainMenu", array|0|)
+33 Frontend_Node_action_show_b2567ef7f9d0fef96ea5d18e1569926d8002b451::{closure}()
+32 Frontend_Node_action_show_b2567ef7f9d0fef96ea5d18e1569926d8002b451::section_02083f4579e08a612425c0c1a17ee47add783b94(Neos\FluidAdaptor\Core\Rendering\RenderingContext)
+31 TYPO3Fluid\Fluid\View\AbstractTemplateView::renderSection("body", array|11|, false)
+30 Neos\FluidAdaptor\View\AbstractTemplateView::renderSection("body")
+29 Neos\Fusion\FusionObjects\TemplateImplementation_Original::evaluate()
+28 Neos\Fusion\Core\Runtime_Original::evaluateObjectOrRetrieveFromCache(Neos\Fusion\FusionObjects\TemplateImplementation, "landingPage<Neos.NodeTypes:Page>/body", array|15|, array|5|)
+27 Neos\Fusion\Core\Runtime_Original::evaluateInternal("landingPage<Neos.NodeTypes:Page>/body", "NULL", Neos\Fusion\FusionObjects\ArrayImplementation)
+26 Neos\Fusion\Core\Runtime_Original::evaluate("landingPage<Neos.NodeTypes:Page>/body", Neos\Fusion\FusionObjects\ArrayImplementation)
+25 Neos\Fusion\FusionObjects\AbstractFusionObject::fusionValue("body")
+24 Neos\Fusion\FusionObjects\ArrayImplementation_Original::evaluate()
+23 Neos\Fusion\Core\Runtime_Original::evaluateObjectOrRetrieveFromCache(Neos\Fusion\FusionObjects\ArrayImplementation, "landingPage", array|25|, array|6|)
+22 Neos\Fusion\Core\Runtime_Original::evaluateInternal("landingPage", "Exception")
+21 Neos\Fusion\Core\Runtime_Original::render("landingPage")
+20 Neos\Fusion\FusionObjects\RendererImplementation_Original::evaluate()
+19 Neos\Fusion\FusionObjects\MatcherImplementation_Original::evaluate()
+18 Neos\Fusion\Core\Runtime_Original::evaluateObjectOrRetrieveFromCache(Neos\Fusion\FusionObjects\MatcherImplementation, "root<Neos.Fusion:Case>/layout<Neos.Fusion:Matcher>", array|5|, array|5|)
+17 Neos\Fusion\Core\Runtime_Original::evaluateInternal("root<Neos.Fusion:Case>/layout<Neos.Fusion:Matcher>", "Exception")
+16 Neos\Fusion\Core\Runtime_Original::render("root<Neos.Fusion:Case>/layout<Neos.Fusion:Matcher>")
+15 Neos\Fusion\FusionObjects\CaseImplementation_Original::renderMatcher("layout")
+14 Neos\Fusion\FusionObjects\CaseImplementation_Original::evaluate()
+13 Neos\Fusion\Core\Runtime_Original::evaluateObjectOrRetrieveFromCache(Neos\Fusion\FusionObjects\CaseImplementation, "root", array|11|, array|6|)
+12 Neos\Fusion\Core\Runtime_Original::evaluateInternal("root", "Exception")
+11 Neos\Fusion\Core\Runtime_Original::render("root")
+10 Neos\Neos\View\FusionView_Original::render()
+9 Neos\Flow\Mvc\Controller\ActionController_Original::callActionMethod()
+8 Neos\Flow\Mvc\Controller\ActionController_Original::processRequest(Neos\Flow\Mvc\ActionRequest, Neos\Flow\Http\Response)
+7 Neos\Flow\Mvc\Dispatcher_Original::initiateDispatchLoop(Neos\Flow\Mvc\ActionRequest, Neos\Flow\Http\Response)
+6 Neos\Flow\Mvc\Dispatcher_Original::dispatch(Neos\Flow\Mvc\ActionRequest, Neos\Flow\Http\Response)
+5 Neos\Flow\Mvc\DispatchComponent_Original::handle(Neos\Flow\Http\Component\ComponentContext)
+4 Neos\Flow\Http\Component\ComponentChain_Original::handle(Neos\Flow\Http\Component\ComponentContext)
+3 Neos\Flow\Http\Component\ComponentChain_Original::handle(Neos\Flow\Http\Component\ComponentContext)
+2 Neos\Flow\Http\RequestHandler::handleRequest()
+1 Neos\Flow\Core\Bootstrap::run()
+
+
+HTTP REQUEST:
+GET /de@user-janina;language=de HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://localhost/neos/content?node=%2Fsites%2Fneosdemo%40user-janina%3Blanguage%3Dde
+Accept-Encoding: gzip, deflate, br
+Accept-Language: de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+HTTP RESPONSE:
+[response was empty]
+
+PHP PROCESS:
+Inode: 20091
+PID: 484
+UID: 0
+GID: 0
+User: SYSTEM
+
+    [array] => 
+

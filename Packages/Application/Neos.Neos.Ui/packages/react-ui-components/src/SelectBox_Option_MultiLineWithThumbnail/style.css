@@ -1,0 +1,38 @@
+.multiLineWithThumbnail__item {
+    box-sizing: content-box;
+    line-height: 20px;
+}
+
+.multiLineWithThumbnail__secondaryLabel {
+    color: var(--colors-ContrastBright);
+    display: block;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.multiLineWithThumbnail__tertiaryLabel {
+    color: var(--colors-ContrastBright);
+    display: block;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.multiLineWithThumbnail__image {
+    width: calc(1.33 * (var(--spacing-GoldenUnit) + var(--spacing-Full)));
+    height: calc(var(--spacing-GoldenUnit) + var(--spacing-Full));
+    object-fit: contain;
+    background-color: var(--colors-ContrastDarkest);
+    margin-right: .75em;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: -var(--spacing-Full);
+    margin-top: -var(--spacing-Half);
+    margin-bottom: -var(--spacing-Half);
+}
+
+.multiLineWithThumbnail__item:hover .multiLineWithThumbnail__secondaryLabel,
+.multiLineWithThumbnail__item:hover .multiLineWithThumbnail__tertiaryLabel {
+    color: white;
+}

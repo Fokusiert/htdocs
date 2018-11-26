@@ -1,0 +1,47 @@
+.inspector {
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+}
+.actions {
+    border-top: 2px solid var(--colors-ContrastDarker);
+    display: flex;
+}
+.discardButton,
+.publishButton {
+    width: 100%;
+    text-align: center;
+}
+.publishButton,
+.publishButton:hover {
+    background: var(--colors-Success) !important;
+}
+.tabs > div {
+    height: 100%;
+}
+.unappliedChangesOverlay {
+    left: 0;
+    width: calc(100% - var(--size-SidebarWidth));
+    height: 100%;
+    z-index: var(--zIndex-UnappliedChangesOverlay-Context);
+    filter: blur(5px);
+    &,
+    &::after {
+        position: fixed;
+        top: 0;
+        background-color: transparent;
+    }
+    &::after {
+        content: '';
+        top: 0;
+        right: 0;
+        height: var(--spacing-GoldenUnit);
+        width: var(--size-SidebarWidth);
+    }
+}
+.loader {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}

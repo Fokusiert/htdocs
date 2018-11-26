@@ -1,0 +1,30 @@
+
+
+	<nav class="nav" role="navigation">
+		<ul class="nav nav-pills">
+			
+				<li class="normal">
+					<a href="/de/fotografie/hochzeit.html">Hochzeit</a>
+				</li>
+			
+				<li class="normal">
+					<a href="/de/fotografie/kinderfotografie.html">Newborn/Kinder</a>
+				</li>
+			
+				<li class="current">
+					<a href="/de/fotografie/portrait-1.html">Portrait</a>
+				</li>
+			
+				<li class="normal">
+					<a href="/de/fotografie/portrait.html">Portrait</a>
+				</li>
+			
+				<li class="normal">
+					<a href="/de/fotografie/newborn-kinder.html">Newborn / Kinder</a>
+				</li>
+			
+		</ul>
+	</nav>
+
+
+NodeType_%d0dbe915091d400bd8ee7f27f0791303%_Neos_Neos-Document0             596       

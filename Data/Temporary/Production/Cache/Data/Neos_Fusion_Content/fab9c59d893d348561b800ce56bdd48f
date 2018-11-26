@@ -1,0 +1,51 @@
+HTTP/1.1 200 OK
+
+<!DOCTYPE html><html lang="de"><!--
+	This website is powered by Neos, the Open Source Content Application Platform licensed under the GNU/GPL.
+	Neos is based on Flow, a powerful PHP application framework licensed under the MIT license.
+
+	More information and contribution opportunities at https://www.neos.io
+-->
+<head><meta charset="UTF-8" />
+			<link rel="stylesheet" href="http://localhost/_Resources/Static/Packages/Neos.Twitter.Bootstrap/3/css/bootstrap.min.css" media="all" />
+			<link rel="stylesheet" href="http://localhost/_Resources/Static/Packages/Neos.Demo/Styles/NeosDemo.css" media="all" />
+			<link rel="stylesheet" href="http://localhost/_Resources/Static/Packages/Neos.Demo/Styles/Print.css" media="print" />
+			
+		CONTENT_CACHE4ee9224c0ffed45175526d9c3c66d956CONTENT_CACHE<title>Bildbearbeitung - Workshops - Neos Demo Site</title><meta name="robots" content="index,follow" /><link rel="canonical" href="http://localhost/de/workshops/bildbearbeitung.html" />CONTENT_CACHEef6aaab56593c76a4fc632ac24a8043fCONTENT_CACHE
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		</head><body class>
+			<div class="top-navigation-wrap">
+				<div class="container">
+					CONTENT_CACHEa7fae55c268a3ac883d879ec2787f176CONTENT_CACHE
+					CONTENT_CACHEbd8e5795bad7a5406d28875c986f1959CONTENT_CACHE
+					CONTENT_CACHE2ac2673b22a33a529c29ea2f771f1fa9CONTENT_CACHE
+				</div>
+			</div>
+
+			
+
+			<div class="container">
+				CONTENT_CACHE79a37057512358a6bd2e5917ad1db74aCONTENT_CACHE
+				CONTENT_CACHE29b79a1bc8661557c5ece73807f7c94aCONTENT_CACHE
+			</div>
+
+			<footer role="navigation" class="navbar navbar-default">
+				<div class="panel panel-default">
+					<div class="panel-body clearfix">
+						<div class="container">
+							CONTENT_CACHE86ba9a593fed45074a32d9ea23701459CONTENT_CACHE
+						</div>
+					</div>
+					<div class="panel-footer">
+						<div class="container">
+							CONTENT_CACHEfd654511184beb98dddf8b33cde242aeCONTENT_CACHE
+						</div>
+					</div>
+				</div>
+			</footer>
+
+		
+			<script src="http://localhost/_Resources/Static/Packages/Neos.Twitter.Bootstrap/Libraries/jQuery/jquery-1.10.1.min.js"></script>
+			<script src="http://localhost/_Resources/Static/Packages/Neos.Twitter.Bootstrap/3/js/bootstrap.min.js"></script>
+			<script src="http://localhost/_Resources/Static/Packages/Neos.Demo/JavaScript/main.min.js"></script>
+		<script data-neos-node="/sites/neosdemo/node-yw7k2qvqwm9sx/node-fc9biuk2473z3@live;language=de" src="http://localhost/_Resources/Static/Packages/Neos.Neos/JavaScript/LastVisitedNode.js" async></script></body></html>Node_%d0dbe915091d400bd8ee7f27f0791303%_5eff920a-1404-4cb2-805c-1ef70c23ba7a0             2624      

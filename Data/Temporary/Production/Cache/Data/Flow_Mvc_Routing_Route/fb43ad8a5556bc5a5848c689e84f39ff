@@ -1,0 +1,1 @@
+a:5:{s:8:"@package";s:9:"Neos.Neos";s:7:"@action";s:5:"index";s:7:"@format";s:4:"html";s:11:"@controller";s:14:"Backend\Module";s:6:"module";a:3:{s:6:"module";s:10:"management";s:10:"controller";s:48:"Neos\Neos\Controller\Module\ManagementController";s:6:"action";s:5:"index";}}12702341910a53c77d8f6e354b7dc5f2 b7cb639fc9d0bd8365389488312743ff0             278       

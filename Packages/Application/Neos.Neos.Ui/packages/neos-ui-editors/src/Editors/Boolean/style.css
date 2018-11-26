@@ -1,0 +1,12 @@
+.boolean__disabled {
+    opacity: .65;
+    cursor: not-allowed;
+}
+
+.boolean__wrapper {
+    padding: 5px;
+
+    label {
+        margin-bottom: 0 !important;
+    }
+}

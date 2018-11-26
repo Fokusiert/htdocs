@@ -1,0 +1,1 @@
+a:3:{i:6;b:1;i:8;a:2:{s:15:"handleException";a:3:{i:12;i:3;i:25;N;i:13;a:1:{s:9:"exception";a:3:{i:16;i:0;i:21;b:1;i:18;s:6:"object";}}}s:10:"setOptions";a:3:{i:12;i:3;i:25;N;i:13;a:1:{s:7:"options";a:3:{i:16;i:0;i:19;b:1;i:18;s:5:"array";}}}}i:1;a:2:{s:37:"Neos\Flow\Error\DebugExceptionHandler";b:1;s:42:"Neos\Flow\Error\ProductionExceptionHandler";b:1;}}

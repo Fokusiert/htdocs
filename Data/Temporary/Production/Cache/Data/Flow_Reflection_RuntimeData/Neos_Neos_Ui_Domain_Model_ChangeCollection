@@ -1,0 +1,1 @@
+a:2:{i:9;a:1:{s:7:"changes";a:2:{i:24;i:2;i:14;a:1:{s:3:"var";a:1:{i:0;s:5:"array";}}}}i:8;a:3:{s:3:"add";a:3:{i:12;i:3;i:25;N;i:13;a:1:{s:6:"change";a:3:{i:16;i:0;i:20;s:41:"Neos\Neos\Ui\Domain\Model\ChangeInterface";i:18;s:41:"Neos\Neos\Ui\Domain\Model\ChangeInterface";}}}s:5:"apply";a:2:{i:12;i:3;i:25;N;}s:5:"count";a:2:{i:12;i:3;i:25;N;}}}

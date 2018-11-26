@@ -1,0 +1,18 @@
+<div class="neos-contentcollection">
+<div class="neos-nodetypes-image">
+	
+<figure>
+	
+
+
+		
+				
+	<img src="http://localhost/_Resources/Persistent/fa6cb70b98fc6f96a948701ef67cd668af62b7f3/corinne-kutz-211251-unsplash-2880x1593-2560x1416.jpg" width="2560" height="1416" />
+
+			
+	
+
+
+	
+</figure>
+</div>CONTENT_CACHEeval=root<Neos.Fusion:Case>/documentType<Neos.Fusion:Matcher>/element<Neos.NodeTypes:Page>/body<Neos.Fusion:Template>/content/main<Neos.Neos:PrimaryContent>/default<Neos.Fusion:Matcher>/renderer<Neos.Neos:ContentCollection>/content<Neos.Neos:ContentCollectionRenderer>/itemRenderer<Neos.Neos:ContentCase>/default<Neos.Fusion:Matcher>/element<Neos.NodeTypes:Form>CONTENT_CACHE{"context":{"node":{"type":"Neos\\ContentRepository\\Domain\\Model\\Node","value":"\/sites\/neosdemo\/node-ptrfhkv4kmi97\/main\/node-axlykffzzio9v@live;language=de"},"documentNode":{"type":"Neos\\ContentRepository\\Domain\\Model\\Node","value":"\/sites\/neosdemo\/node-ptrfhkv4kmi97@live;language=de"}}}CONTENT_CACHE</div>DescendantOf_%d0dbe915091d400bd8ee7f27f0791303%_7137459c-16b3-0fd2-2fc4-08539feb4d72 Node_%d0dbe915091d400bd8ee7f27f0791303%_7137459c-16b3-0fd2-2fc4-08539feb4d720             1010      

@@ -1,0 +1,268 @@
+18-11-14 19:07:42  CRITICAL                       Exception #1355480641 in line 350 of C:\Bitnami\neos-4.1.7-neu\apps\neos\htdocs\Packages\Framework\Neos.Flow\Classes\Core\Booting\Scripts.php: PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\bz2' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\curl' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\fileinfo' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\gd2' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\gettext' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\mbstring' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\exif' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\mysqli' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\pdo_mysql' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\pdo_sqlite' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: openssl: Unable to initialize module
+Module compiled with module API=20170718
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\php_ftp.dll' - Die angegebene Prozedur wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\bz2' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\curl' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\fileinfo' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\gd2' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\gettext' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\mbstring' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\exif' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\mysqli' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\pdo_mysql' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\pdo_sqlite' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: openssl: Unable to initialize module
+Module compiled with module API=20170718
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\php_ftp.dll' - Die angegebene Prozedur wurde nicht gefunden.
+ in Unknown on line 0
+Flow requires the PHP extension "mbstring" (Error #1207148809) - See also: 201811141907385fd205.txt
+18-11-21 18:59:00  CRITICAL                       Exception #1355480641 in line 350 of C:\Bitnami\neos-4.1.7-neu\apps\neos\htdocs\Packages\Framework\Neos.Flow\Classes\Core\Booting\Scripts.php: PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\bz2' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\curl' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\fileinfo' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\gd2' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\gettext' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\mbstring' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\exif' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\mysqli' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\pdo_mysql' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\pdo_sqlite' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: openssl: Unable to initialize module
+Module compiled with module API=20170718
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\php_ftp.dll' - Die angegebene Prozedur wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\bz2' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\curl' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\fileinfo' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\gd2' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\gettext' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\mbstring' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\exif' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\mysqli' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\pdo_mysql' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\pdo_sqlite' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: openssl: Unable to initialize module
+Module compiled with module API=20170718
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\php_ftp.dll' - Die angegebene Prozedur wurde nicht gefunden.
+ in Unknown on line 0
+Flow requires the PHP extension "mbstring" (Error #1207148809) - See also: 2018112118585776b851.txt
+18-11-21 19:38:54  CRITICAL                       Exception #1355480641 in line 350 of C:\Bitnami\neos-4.1.7-neu\apps\neos\htdocs\Packages\Framework\Neos.Flow\Classes\Core\Booting\Scripts.php: PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\bz2' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\curl' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\fileinfo' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\gd2' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\gettext' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\mbstring' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\exif' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\mysqli' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\pdo_mysql' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\pdo_sqlite' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: openssl: Unable to initialize module
+Module compiled with module API=20170718
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\php_ftp.dll' - Die angegebene Prozedur wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\bz2' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\curl' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\fileinfo' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\gd2' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\gettext' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\mbstring' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\exif' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\mysqli' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\pdo_mysql' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\pdo_sqlite' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: openssl: Unable to initialize module
+Module compiled with module API=20170718
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\php_ftp.dll' - Die angegebene Prozedur wurde nicht gefunden.
+ in Unknown on line 0
+Flow requires the PHP extension "mbstring" (Error #1207148809) - See also: 20181121193854dff6b5.txt
+18-11-21 19:41:08  CRITICAL                       Exception #1355480641 in line 350 of C:\Bitnami\neos-4.1.7-neu\apps\neos\htdocs\Packages\Framework\Neos.Flow\Classes\Core\Booting\Scripts.php: PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\bz2' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\curl' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\fileinfo' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\gd2' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\gettext' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\mbstring' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\exif' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\mysqli' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\pdo_mysql' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\pdo_sqlite' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+PHP Warning:  PHP Startup: openssl: Unable to initialize module
+Module compiled with module API=20170718
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\php_ftp.dll' - Die angegebene Prozedur wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\bz2' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\curl' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\fileinfo' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\gd2' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\gettext' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\mbstring' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\exif' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\mysqli' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\pdo_mysql' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\pdo_sqlite' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+
+Warning: PHP Startup: openssl: Unable to initialize module
+Module compiled with module API=20170718
+PHP    compiled with module API=20160303
+These options need to match
+ in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'C:\xampp2\php\ext\php_ftp.dll' - Die angegebene Prozedur wurde nicht gefunden.
+ in Unknown on line 0
+Flow requires the PHP extension "mbstring" (Error #1207148809) - See also: 20181121194057f546b2.txt

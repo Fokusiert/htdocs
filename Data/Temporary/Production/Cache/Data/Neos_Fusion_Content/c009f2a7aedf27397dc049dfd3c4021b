@@ -1,0 +1,57 @@
+HTTP/1.1 200 OK
+
+<!DOCTYPE html><html lang="de"><!--
+	This website is powered by Neos, the Open Source Content Application Platform licensed under the GNU/GPL.
+	Neos is based on Flow, a powerful PHP application framework licensed under the MIT license.
+
+	More information and contribution opportunities at https://www.neos.io
+-->
+<head><meta charset="UTF-8" />
+			<link rel="stylesheet" href="http://localhost/_Resources/Static/Packages/Neos.Twitter.Bootstrap/3/css/bootstrap.min.css" media="all" />
+			<link rel="stylesheet" href="http://localhost/_Resources/Static/Packages/Neos.Demo/Styles/NeosDemo.css" media="all" />
+			<link rel="stylesheet" href="http://localhost/_Resources/Static/Packages/Neos.Demo/Styles/Print.css" media="print" />
+			
+		CONTENT_CACHE824b149e7da673c4855d9bad5d23fa67CONTENT_CACHE<title>Neos Demo Site</title><meta name="robots" content="index,follow" /><link rel="canonical" href="http://localhost/de" />CONTENT_CACHEd0dcc58b9637a7d6487f8fbfacc220aaCONTENT_CACHE
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		</head><body class>
+			<div class="top-navigation-wrap">
+				<div class="container">
+					CONTENT_CACHE214e8e39653a570abad440f0edd6d312CONTENT_CACHE
+					CONTENT_CACHE94cb837a77ee5a3616982d5f70d4a5f9CONTENT_CACHE
+					CONTENT_CACHE77d0a4310349394e857f0eb5390a38ecCONTENT_CACHE
+				</div>
+			</div>
+
+			
+				<div class="main-header image" style="background-image: url(http://localhost/_Resources/Persistent/3eff4503d1a7aab8a55707a9fe50d94c9a16ecb1/julie-johnson-718692-unsplash-3000x1501-2558x1280.jpg);" title="Photo by Mr. Coffee">
+					<div class="container">
+						CONTENT_CACHE410c36dc83cfefbc758a9c9ea42800a8CONTENT_CACHE
+					</div>
+				</div>
+			
+
+			<div class="container">
+				
+				CONTENT_CACHE2ccc2b186ef26ac280b0cbae01fa5b72CONTENT_CACHE
+			</div>
+
+			<footer role="navigation" class="navbar navbar-default">
+				<div class="panel panel-default">
+					<div class="panel-body clearfix">
+						<div class="container">
+							CONTENT_CACHE984800e3b216735724ea68c71ec861c8CONTENT_CACHE
+						</div>
+					</div>
+					<div class="panel-footer">
+						<div class="container">
+							CONTENT_CACHE867054a96298c852a91051b4499a0608CONTENT_CACHE
+						</div>
+					</div>
+				</div>
+			</footer>
+
+		
+			<script src="http://localhost/_Resources/Static/Packages/Neos.Twitter.Bootstrap/Libraries/jQuery/jquery-1.10.1.min.js"></script>
+			<script src="http://localhost/_Resources/Static/Packages/Neos.Twitter.Bootstrap/3/js/bootstrap.min.js"></script>
+			<script src="http://localhost/_Resources/Static/Packages/Neos.Demo/JavaScript/main.min.js"></script>
+		<script data-neos-node="/sites/neosdemo@live;language=de" src="http://localhost/_Resources/Static/Packages/Neos.Neos/JavaScript/LastVisitedNode.js" async></script></body></html>Node_%d0dbe915091d400bd8ee7f27f0791303%_995c9174-ddd6-4d5c-cfc0-1ffc821846770             2818      

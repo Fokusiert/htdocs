@@ -1,0 +1,40 @@
+@import 'normalize.css';
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../../../Resources/Public/Fonts/OpenSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../../../Resources/Public/Fonts/OpenSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: normal;
+    color: var(--colors-ContrastBrightest);
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+hr {
+    margin: 0;
+    border: 1px solid #3f3f3f;
+}
+
+/* normalize.css doesn't reset link underline */
+a {
+    text-decoration: none;
+}

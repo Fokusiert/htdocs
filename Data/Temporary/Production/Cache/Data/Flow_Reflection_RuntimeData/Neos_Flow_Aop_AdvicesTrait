@@ -1,0 +1,1 @@
+a:1:{i:8;a:2:{s:30:"Flow_Aop_Proxy_getAdviceChains";a:3:{i:12;i:1;i:25;s:5:"array";i:13;a:1:{s:10:"methodName";a:3:{i:16;i:0;i:18;s:6:"string";i:24;b:1;}}}s:30:"Flow_Aop_Proxy_invokeJoinPoint";a:3:{i:12;i:3;i:25;N;i:13;a:1:{s:9:"joinPoint";a:3:{i:16;i:0;i:20;s:32:"Neos\Flow\Aop\JoinPointInterface";i:18;s:32:"Neos\Flow\Aop\JoinPointInterface";}}}}}

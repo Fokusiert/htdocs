@@ -1,0 +1,7 @@
+import Label from './index';
+
+describe('<Label/> (entry point)', () => {
+    it('should export a Component.', () => {
+        expect(typeof Label).toBe('function');
+    });
+});

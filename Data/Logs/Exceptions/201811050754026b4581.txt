@@ -1,0 +1,70 @@
+Exception in line 204 of C:\Bitnami\neos-4.1.7-neu\apps\neos\htdocs\Packages\Framework\Neos.FluidAdaptor\Classes\View\AbstractTemplateView.php: Section "headScripts" does not exist.
+
+41 TYPO3Fluid\Fluid\View\AbstractTemplateView::renderSection("headScripts", array|2|, false)
+40 Neos\FluidAdaptor\View\AbstractTemplateView::renderSection("headScripts")
+39 Neos\Fusion\FusionObjects\TemplateImplementation_Original::evaluate()
+38 Neos\Fusion\Core\Runtime_Original::evaluateObjectOrRetrieveFromCache(Neos\Fusion\FusionObjects\TemplateImplementation, "root<Neos.Fusion:Case>/documentType<Neos.Fusion:Ma….Fusion:Array>/javascripts<Neos.Fusion:Array>/site", array|6|, array|5|)
+37 Neos\Fusion\Core\Runtime_Original::evaluateInternal("root<Neos.Fusion:Case>/documentType<Neos.Fusion:Ma….Fusion:Array>/javascripts<Neos.Fusion:Array>/site", "NULL", Neos\Fusion\FusionObjects\ArrayImplementation)
+36 Neos\Fusion\Core\Runtime_Original::evaluate("root<Neos.Fusion:Case>/documentType<Neos.Fusion:Ma….Fusion:Array>/javascripts<Neos.Fusion:Array>/site", Neos\Fusion\FusionObjects\ArrayImplementation)
+35 Neos\Fusion\FusionObjects\AbstractFusionObject::fusionValue("site")
+34 Neos\Fusion\FusionObjects\ArrayImplementation_Original::evaluate()
+33 Neos\Fusion\Core\Runtime_Original::evaluateObjectOrRetrieveFromCache(Neos\Fusion\FusionObjects\ArrayImplementation, "root<Neos.Fusion:Case>/documentType<Neos.Fusion:Ma…ert.Demo:Page>/head<Neos.Fusion:Array>/javascripts", array|5|, array|5|)
+32 Neos\Fusion\Core\Runtime_Original::evaluateInternal("root<Neos.Fusion:Case>/documentType<Neos.Fusion:Ma…ert.Demo:Page>/head<Neos.Fusion:Array>/javascripts", "NULL", Neos\Fusion\FusionObjects\ArrayImplementation)
+31 Neos\Fusion\Core\Runtime_Original::evaluate("root<Neos.Fusion:Case>/documentType<Neos.Fusion:Ma…ert.Demo:Page>/head<Neos.Fusion:Array>/javascripts", Neos\Fusion\FusionObjects\ArrayImplementation)
+30 Neos\Fusion\FusionObjects\AbstractFusionObject::fusionValue("javascripts")
+29 Neos\Fusion\FusionObjects\ArrayImplementation_Original::evaluate()
+28 Neos\Fusion\Core\Runtime_Original::evaluateObjectOrRetrieveFromCache(Neos\Fusion\FusionObjects\ArrayImplementation, "root<Neos.Fusion:Case>/documentType<Neos.Fusion:Matcher>/element<Fokussiert.Demo:Page>/head", array|20|, array|5|)
+27 Neos\Fusion\Core\Runtime_Original::evaluateInternal("root<Neos.Fusion:Case>/documentType<Neos.Fusion:Matcher>/element<Fokussiert.Demo:Page>/head", "NULL", Neos\Fusion\FusionObjects\ArrayImplementation)
+26 Neos\Fusion\Core\Runtime_Original::evaluate("root<Neos.Fusion:Case>/documentType<Neos.Fusion:Matcher>/element<Fokussiert.Demo:Page>/head", Neos\Fusion\FusionObjects\ArrayImplementation)
+25 Neos\Fusion\FusionObjects\AbstractFusionObject::fusionValue("head")
+24 Neos\Fusion\FusionObjects\ArrayImplementation_Original::evaluate()
+23 Neos\Fusion\Core\Runtime_Original::evaluateObjectOrRetrieveFromCache(Neos\Fusion\FusionObjects\ArrayImplementation, "root<Neos.Fusion:Case>/documentType<Neos.Fusion:Matcher>/element<Fokussiert.Demo:Page>", array|23|, array|6|)
+22 Neos\Fusion\Core\Runtime_Original::evaluateInternal("root<Neos.Fusion:Case>/documentType<Neos.Fusion:Matcher>/element<Fokussiert.Demo:Page>", "Exception")
+21 Neos\Fusion\Core\Runtime_Original::render("root<Neos.Fusion:Case>/documentType<Neos.Fusion:Matcher>/element<Fokussiert.Demo:Page>")
+20 Neos\Fusion\FusionObjects\RendererImplementation_Original::evaluate()
+19 Neos\Fusion\FusionObjects\MatcherImplementation_Original::evaluate()
+18 Neos\Fusion\Core\Runtime_Original::evaluateObjectOrRetrieveFromCache(Neos\Fusion\FusionObjects\MatcherImplementation, "root<Neos.Fusion:Case>/documentType<Neos.Fusion:Matcher>", array|4|, array|5|)
+17 Neos\Fusion\Core\Runtime_Original::evaluateInternal("root<Neos.Fusion:Case>/documentType<Neos.Fusion:Matcher>", "Exception")
+16 Neos\Fusion\Core\Runtime_Original::render("root<Neos.Fusion:Case>/documentType<Neos.Fusion:Matcher>")
+15 Neos\Fusion\FusionObjects\CaseImplementation_Original::renderMatcher("documentType")
+14 Neos\Fusion\FusionObjects\CaseImplementation_Original::evaluate()
+13 Neos\Fusion\Core\Runtime_Original::evaluateObjectOrRetrieveFromCache(Neos\Fusion\FusionObjects\CaseImplementation, "root", array|11|, array|6|)
+12 Neos\Fusion\Core\Runtime_Original::evaluateInternal("root", "Exception")
+11 Neos\Fusion\Core\Runtime_Original::render("root")
+10 Neos\Neos\View\FusionView_Original::render()
+9 Neos\Flow\Mvc\Controller\ActionController_Original::callActionMethod()
+8 Neos\Flow\Mvc\Controller\ActionController_Original::processRequest(Neos\Flow\Mvc\ActionRequest, Neos\Flow\Http\Response)
+7 Neos\Flow\Mvc\Dispatcher_Original::initiateDispatchLoop(Neos\Flow\Mvc\ActionRequest, Neos\Flow\Http\Response)
+6 Neos\Flow\Mvc\Dispatcher_Original::dispatch(Neos\Flow\Mvc\ActionRequest, Neos\Flow\Http\Response)
+5 Neos\Flow\Mvc\DispatchComponent_Original::handle(Neos\Flow\Http\Component\ComponentContext)
+4 Neos\Flow\Http\Component\ComponentChain_Original::handle(Neos\Flow\Http\Component\ComponentContext)
+3 Neos\Flow\Http\Component\ComponentChain_Original::handle(Neos\Flow\Http\Component\ComponentContext)
+2 Neos\Flow\Http\RequestHandler::handleRequest()
+1 Neos\Flow\Core\Bootstrap::run()
+
+
+HTTP REQUEST:
+GET /@user-janina;language=en_US HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://localhost/neos/content?node=%2Fsites%2Ffokussiert-demo%40user-janina%3Blanguage%3Den_US
+Accept-Encoding: gzip, deflate, br
+Accept-Language: de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7
+
+
+
+HTTP RESPONSE:
+[response was empty]
+
+PHP PROCESS:
+Inode: 20091
+PID: 484
+UID: 0
+GID: 0
+User: SYSTEM
+
+    [array] => 
+

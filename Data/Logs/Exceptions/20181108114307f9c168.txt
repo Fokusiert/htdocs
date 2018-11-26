@@ -1,0 +1,6 @@
+Exception #1349868540 in line 48 of C:\Bitnami\neos-4.1.7-neu\apps\neos\htdocs\Data\Temporary\Production\Cache\Code\Flow_Object_Classes\Neos_Flow_Composer_ComposerUtility.php: No composer manifest file found at "C:/Bitnami/neos-4.1.7-neu/apps/neos/htdocs/Packages/Sites/fokussiert.test/composer.json".
+
+
+
+    [array] => 
+

@@ -1,0 +1,65 @@
+HTTP/1.1 200 OK
+
+<!DOCTYPE html><html><!--
+	This website is powered by Neos, the Open Source Content Application Platform licensed under the GNU/GPL.
+	Neos is based on Flow, a powerful PHP application framework licensed under the MIT license.
+
+	More information and contribution opportunities at https://www.neos.io
+-->
+<head><meta charset="UTF-8" />
+			<link rel="stylesheet" href="http://localhost/_Resources/Static/Packages/Neos.Twitter.Bootstrap/3/css/bootstrap.min.css" media="all" />
+			<link rel="stylesheet" href="http://localhost/_Resources/Static/Packages/Neos.Demo/Styles/NeosDemo.css" media="all" />
+			<link rel="stylesheet" href="http://localhost/_Resources/Static/Packages/Neos.Demo/Styles/Print.css" media="print" />
+			
+				<link rel="stylesheet" href="http://localhost/_Resources/Static/Packages/Neos.Demo/Styles/Backend.css" media="all" />
+			
+		CONTENT_CACHE7dae95a6b281d42ca39b53f4ccfec00fCONTENT_CACHE<title>Fotografie - Neos Demo Site</title><meta name="robots" content="index,follow" /><link rel="canonical" href="http://localhost/de/fotografie@user-janina;language=de.html" />CONTENT_CACHE8e17ebe4b83eabb4d94d07a05cfbc8aaCONTENT_CACHE
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+    <script>window.neos = window.parent.neos;</script>
+    <script src="http://localhost/_Resources/Static/Packages/Neos.Neos.Ui.Compiled/JavaScript/Vendor.js"></script>
+    <script src="http://localhost/_Resources/Static/Packages/Neos.Neos.Ui/Plugins/ckeditor/ckeditor.js"></script>
+    <script src="http://localhost/_Resources/Static/Packages/Neos.Neos.Ui.Compiled/JavaScript/Guest.js"></script>
+    <link rel="stylesheet" href="http://localhost/_Resources/Static/Packages/Neos.Neos.Ui.Compiled/Styles/Host.css">
+</head><body class="has-subpages neos-backend"><div data-preview-uri="/de/fotografie.html"></div>
+			<div class="top-navigation-wrap">
+				<div class="container">
+					CONTENT_CACHE5c11a7c3c961d230e4610e2191570904CONTENT_CACHE
+					CONTENT_CACHE16c59b081cba552de0d6b076f86a2171CONTENT_CACHE
+					CONTENT_CACHE7001bbcd2755f6316d56bf541409ee08CONTENT_CACHE
+				</div>
+			</div>
+
+			
+
+			<div class="container">
+				CONTENT_CACHE5653ea2c66862736ef536f206e222554CONTENT_CACHE
+				CONTENT_CACHE7e1c4198ada6ad2642c2244deb4cf207CONTENT_CACHE
+			</div>
+
+			<footer role="navigation" class="navbar navbar-default">
+				<div class="panel panel-default">
+					<div class="panel-body clearfix">
+						<div class="container">
+							CONTENT_CACHE101e910ef24a939911827471ca274174CONTENT_CACHE
+						</div>
+					</div>
+					<div class="panel-footer">
+						<div class="container">
+							CONTENT_CACHEdb8123665d37cc88710bad5bb22857c3CONTENT_CACHE
+						</div>
+					</div>
+				</div>
+			</footer>
+
+		
+			<script src="http://localhost/_Resources/Static/Packages/Neos.Twitter.Bootstrap/Libraries/jQuery/jquery-1.10.1.min.js"></script>
+			<script src="http://localhost/_Resources/Static/Packages/Neos.Twitter.Bootstrap/3/js/bootstrap.min.js"></script>
+			<script src="http://localhost/_Resources/Static/Packages/Neos.Demo/JavaScript/main.min.js"></script>
+		<div id="neos-new-backend-container"></div><script data-neos-node="/sites/neosdemo/node-ark1jsdhsmrde@user-janina;language=de" src="http://localhost/_Resources/Static/Packages/Neos.Neos/JavaScript/LastVisitedNode.js" async></script><script>(function(){(this['@Neos.Neos.Ui:Nodes'] = this['@Neos.Neos.Ui:Nodes'] || {})['/sites/neosdemo/node-ark1jsdhsmrde/main@user-janina;language=de'] = {"contextPath":"\/sites\/neosdemo\/node-ark1jsdhsmrde\/main@user-janina;language=de","name":"main","identifier":"477b752c-49a2-3781-5bcc-ac721a19777b","nodeType":"Neos.Neos:ContentCollection","label":"Content Collection (main)","isAutoCreated":true,"depth":4,"children":[{"contextPath":"\/sites\/neosdemo\/node-ark1jsdhsmrde\/main\/node-kgx7ops8bme2n@user-janina;language=de","nodeType":"Neos.NodeTypes:Image"},{"contextPath":"\/sites\/neosdemo\/node-ark1jsdhsmrde\/main\/node-x4yytyp326ikq@user-janina;language=de","nodeType":"Neos.NodeTypes:Text"}],"matchesCurrentDimensions":true,"properties":{"_removed":false,"_creationDateTime":"2018-11-05T16:08:44+00:00","_lastModificationDateTime":"2018-11-05T16:52:26+00:00","_lastPublicationDateTime":"2018-11-05T16:52:25+00:00","_path":"\/sites\/neosdemo\/node-ark1jsdhsmrde\/main","_name":"main","_nodeType":"Neos.Neos:ContentCollection"},"isFullyLoaded":true}})()</script><script>(function(){(this['@Neos.Neos.Ui:Nodes'] = this['@Neos.Neos.Ui:Nodes'] || {})['/sites/neosdemo/node-ark1jsdhsmrde/main/node-kgx7ops8bme2n@user-janina;language=de'] = {"contextPath":"\/sites\/neosdemo\/node-ark1jsdhsmrde\/main\/node-kgx7ops8bme2n@user-janina;language=de","name":"node-kgx7ops8bme2n","identifier":"2c3f2eb7-eb6a-4a69-a506-cf9a6a6d4419","nodeType":"Neos.NodeTypes:Image","label":"Image","isAutoCreated":false,"depth":5,"children":[],"matchesCurrentDimensions":true,"properties":{"_removed":false,"_creationDateTime":"2018-11-05T21:19:18+00:00","_lastModificationDateTime":"2018-11-05T21:19:52+00:00","_lastPublicationDateTime":"2018-11-05T21:19:52+00:00","_path":"\/sites\/neosdemo\/node-ark1jsdhsmrde\/main\/node-kgx7ops8bme2n","_name":"node-kgx7ops8bme2n","_nodeType":"Neos.NodeTypes:Image","_hidden":false,"_hiddenBeforeDateTime":null,"_hiddenAfterDateTime":null,"image":{"__identity":"fb54a2e6-570c-4c52-9869-dc9c3d7dca92","__type":"Neos\\Media\\Domain\\Model\\Image"},"alternativeText":"","title":"","link":"","hasCaption":false,"caption":"","alignment":""},"isFullyLoaded":true}})()</script><script>(function(){(this['@Neos.Neos.Ui:Nodes'] = this['@Neos.Neos.Ui:Nodes'] || {})['/sites/neosdemo/node-ark1jsdhsmrde/main/node-x4yytyp326ikq@user-janina;language=de'] = {"contextPath":"\/sites\/neosdemo\/node-ark1jsdhsmrde\/main\/node-x4yytyp326ikq@user-janina;language=de","name":"node-x4yytyp326ikq","identifier":"c01dd0e2-98d9-42b6-9731-6542639ae3fc","nodeType":"Neos.NodeTypes:Text","label":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean ...","isAutoCreated":false,"depth":5,"children":[],"matchesCurrentDimensions":true,"properties":{"_removed":false,"_creationDateTime":"2018-11-05T21:18:03+00:00","_lastModificationDateTime":"2018-11-05T21:19:52+00:00","_lastPublicationDateTime":"2018-11-05T21:19:52+00:00","_path":"\/sites\/neosdemo\/node-ark1jsdhsmrde\/main\/node-x4yytyp326ikq","_name":"node-x4yytyp326ikq","_nodeType":"Neos.NodeTypes:Text","_hidden":false,"_hiddenBeforeDateTime":null,"_hiddenAfterDateTime":null,"text":"<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate<\/p>\n"},"isFullyLoaded":true}})()</script><script>(function(){(this['@Neos.Neos.Ui:Nodes'] = this['@Neos.Neos.Ui:Nodes'] || {})['/sites/neosdemo/node-ark1jsdhsmrde/teaser@user-janina;language=de'] = {"contextPath":"\/sites\/neosdemo\/node-ark1jsdhsmrde\/teaser@user-janina;language=de","name":"teaser","identifier":"ace4aa0e-10a6-c425-57f8-ee3b742806fc","nodeType":"Neos.Neos:ContentCollection","label":"Content Collection (teaser)","isAutoCreated":true,"depth":4,"children":[],"matchesCurrentDimensions":true,"properties":{"_removed":false,"_creationDateTime":"2018-11-05T16:08:44+00:00","_lastModificationDateTime":"2018-11-05T16:52:26+00:00","_lastPublicationDateTime":"2018-11-05T16:52:25+00:00","_path":"\/sites\/neosdemo\/node-ark1jsdhsmrde\/teaser","_name":"teaser","_nodeType":"Neos.Neos:ContentCollection"},"isFullyLoaded":true}})()</script><script type="application/javascript">
+    document.addEventListener("DOMContentLoaded", function () {
+        var event = new CustomEvent("Neos.Neos.Ui.ContentReady");
+        window.parent.document.dispatchEvent(event);
+    });
+</script>
+</body></html>Node_%eb4cb258bd0e2ca71beaa6ac313b3c48%_b56849d7-bce1-4731-b000-774f57f8ce210             7985      

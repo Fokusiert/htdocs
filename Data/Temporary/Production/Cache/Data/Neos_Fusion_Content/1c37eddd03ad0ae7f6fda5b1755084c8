@@ -1,0 +1,65 @@
+HTTP/1.1 200 OK
+
+<!DOCTYPE html><html><!--
+	This website is powered by Neos, the Open Source Content Application Platform licensed under the GNU/GPL.
+	Neos is based on Flow, a powerful PHP application framework licensed under the MIT license.
+
+	More information and contribution opportunities at https://www.neos.io
+-->
+<head><meta charset="UTF-8" />
+			<link rel="stylesheet" href="http://localhost/_Resources/Static/Packages/Neos.Twitter.Bootstrap/3/css/bootstrap.min.css" media="all" />
+			<link rel="stylesheet" href="http://localhost/_Resources/Static/Packages/Neos.Demo/Styles/NeosDemo.css" media="all" />
+			<link rel="stylesheet" href="http://localhost/_Resources/Static/Packages/Neos.Demo/Styles/Print.css" media="print" />
+			
+				<link rel="stylesheet" href="http://localhost/_Resources/Static/Packages/Neos.Demo/Styles/Backend.css" media="all" />
+			
+		CONTENT_CACHE0206a928c04a92fa9029ca4e9bd2f916CONTENT_CACHE<title>Workshops - Neos Demo Site</title><meta name="robots" content="index,follow" /><link rel="canonical" href="http://localhost/de/workshops@user-janina;language=de.html" />CONTENT_CACHEfbe49292c8cdfb149fd1be50992f4cf4CONTENT_CACHE
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+    <script>window.neos = window.parent.neos;</script>
+    <script src="http://localhost/_Resources/Static/Packages/Neos.Neos.Ui.Compiled/JavaScript/Vendor.js"></script>
+    <script src="http://localhost/_Resources/Static/Packages/Neos.Neos.Ui/Plugins/ckeditor/ckeditor.js"></script>
+    <script src="http://localhost/_Resources/Static/Packages/Neos.Neos.Ui.Compiled/JavaScript/Guest.js"></script>
+    <link rel="stylesheet" href="http://localhost/_Resources/Static/Packages/Neos.Neos.Ui.Compiled/Styles/Host.css">
+</head><body class="has-subpages neos-backend"><div data-preview-uri="/de/workshops.html"></div>
+			<div class="top-navigation-wrap">
+				<div class="container">
+					CONTENT_CACHEceda4775501efb698092a18099928179CONTENT_CACHE
+					CONTENT_CACHE870a28b19222de6998c15f048296457bCONTENT_CACHE
+					CONTENT_CACHE06161d926966b8648852e125797f5d69CONTENT_CACHE
+				</div>
+			</div>
+
+			
+
+			<div class="container">
+				CONTENT_CACHE006b8f7a59ccbc979c9e72026ab82b25CONTENT_CACHE
+				CONTENT_CACHEfc7c413aac06484db370cf938a17ef2cCONTENT_CACHE
+			</div>
+
+			<footer role="navigation" class="navbar navbar-default">
+				<div class="panel panel-default">
+					<div class="panel-body clearfix">
+						<div class="container">
+							CONTENT_CACHEde13efd6aed6ea21b73a05147dac2657CONTENT_CACHE
+						</div>
+					</div>
+					<div class="panel-footer">
+						<div class="container">
+							CONTENT_CACHEdb8123665d37cc88710bad5bb22857c3CONTENT_CACHE
+						</div>
+					</div>
+				</div>
+			</footer>
+
+		
+			<script src="http://localhost/_Resources/Static/Packages/Neos.Twitter.Bootstrap/Libraries/jQuery/jquery-1.10.1.min.js"></script>
+			<script src="http://localhost/_Resources/Static/Packages/Neos.Twitter.Bootstrap/3/js/bootstrap.min.js"></script>
+			<script src="http://localhost/_Resources/Static/Packages/Neos.Demo/JavaScript/main.min.js"></script>
+		<div id="neos-new-backend-container"></div><script data-neos-node="/sites/neosdemo/node-yw7k2qvqwm9sx@user-janina;language=de" src="http://localhost/_Resources/Static/Packages/Neos.Neos/JavaScript/LastVisitedNode.js" async></script><script>(function(){(this['@Neos.Neos.Ui:Nodes'] = this['@Neos.Neos.Ui:Nodes'] || {})['/sites/neosdemo/node-yw7k2qvqwm9sx/main@user-janina;language=de'] = {"contextPath":"\/sites\/neosdemo\/node-yw7k2qvqwm9sx\/main@user-janina;language=de","name":"main","identifier":"23da8e81-2794-29aa-1ad4-84b334356024","nodeType":"Neos.Neos:ContentCollection","label":"Content Collection (main)","isAutoCreated":true,"depth":4,"children":[{"contextPath":"\/sites\/neosdemo\/node-yw7k2qvqwm9sx\/main\/node-l70nn0vzjljpr@user-janina;language=de","nodeType":"Neos.NodeTypes:Image"}],"matchesCurrentDimensions":true,"properties":{"_removed":false,"_creationDateTime":"2018-11-05T16:22:57+00:00","_lastModificationDateTime":"2018-11-05T22:20:01+00:00","_lastPublicationDateTime":"2018-11-05T22:20:00+00:00","_path":"\/sites\/neosdemo\/node-yw7k2qvqwm9sx\/main","_name":"main","_nodeType":"Neos.Neos:ContentCollection"},"isFullyLoaded":true}})()</script><script>(function(){(this['@Neos.Neos.Ui:Nodes'] = this['@Neos.Neos.Ui:Nodes'] || {})['/sites/neosdemo/node-yw7k2qvqwm9sx/main/node-l70nn0vzjljpr@user-janina;language=de'] = {"contextPath":"\/sites\/neosdemo\/node-yw7k2qvqwm9sx\/main\/node-l70nn0vzjljpr@user-janina;language=de","name":"node-l70nn0vzjljpr","identifier":"6385632a-852b-49c2-b0cd-cfe687af4b5f","nodeType":"Neos.NodeTypes:Image","label":"Image","isAutoCreated":false,"depth":5,"children":[],"matchesCurrentDimensions":true,"properties":{"_removed":false,"_creationDateTime":"2018-11-05T22:19:38+00:00","_lastModificationDateTime":"2018-11-05T22:20:01+00:00","_lastPublicationDateTime":"2018-11-05T22:20:00+00:00","_path":"\/sites\/neosdemo\/node-yw7k2qvqwm9sx\/main\/node-l70nn0vzjljpr","_name":"node-l70nn0vzjljpr","_nodeType":"Neos.NodeTypes:Image","_hidden":false,"_hiddenBeforeDateTime":null,"_hiddenAfterDateTime":null,"image":{"__identity":"25d735e6-7d14-48d7-afaf-e7b8607c9982","__type":"Neos\\Media\\Domain\\Model\\Image"},"alternativeText":"","title":"","link":"","hasCaption":false,"caption":"","alignment":""},"isFullyLoaded":true}})()</script><script>(function(){(this['@Neos.Neos.Ui:Nodes'] = this['@Neos.Neos.Ui:Nodes'] || {})['/sites/neosdemo/node-yw7k2qvqwm9sx/teaser@user-janina;language=de'] = {"contextPath":"\/sites\/neosdemo\/node-yw7k2qvqwm9sx\/teaser@user-janina;language=de","name":"teaser","identifier":"72628726-f1aa-d55d-ef92-9c10b3052b3e","nodeType":"Neos.Neos:ContentCollection","label":"Content Collection (teaser)","isAutoCreated":true,"depth":4,"children":[],"matchesCurrentDimensions":true,"properties":{"_removed":false,"_creationDateTime":"2018-11-05T16:22:57+00:00","_lastModificationDateTime":"2018-11-05T22:20:01+00:00","_lastPublicationDateTime":"2018-11-05T22:20:00+00:00","_path":"\/sites\/neosdemo\/node-yw7k2qvqwm9sx\/teaser","_name":"teaser","_nodeType":"Neos.Neos:ContentCollection"},"isFullyLoaded":true}})()</script><script type="application/javascript">
+    document.addEventListener("DOMContentLoaded", function () {
+        var event = new CustomEvent("Neos.Neos.Ui.ContentReady");
+        window.parent.document.dispatchEvent(event);
+    });
+</script>
+</body></html>Node_%eb4cb258bd0e2ca71beaa6ac313b3c48%_5829894b-6490-4c0f-b023-de42843e3a100             6456      

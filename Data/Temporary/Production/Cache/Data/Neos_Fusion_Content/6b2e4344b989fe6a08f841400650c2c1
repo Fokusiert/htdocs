@@ -1,0 +1,65 @@
+HTTP/1.1 200 OK
+
+<!DOCTYPE html><html><!--
+	This website is powered by Neos, the Open Source Content Application Platform licensed under the GNU/GPL.
+	Neos is based on Flow, a powerful PHP application framework licensed under the MIT license.
+
+	More information and contribution opportunities at https://www.neos.io
+-->
+<head><meta charset="UTF-8" />
+			<link rel="stylesheet" href="http://localhost/_Resources/Static/Packages/Neos.Twitter.Bootstrap/3/css/bootstrap.min.css" media="all" />
+			<link rel="stylesheet" href="http://localhost/_Resources/Static/Packages/Neos.Demo/Styles/NeosDemo.css" media="all" />
+			<link rel="stylesheet" href="http://localhost/_Resources/Static/Packages/Neos.Demo/Styles/Print.css" media="print" />
+			
+				<link rel="stylesheet" href="http://localhost/_Resources/Static/Packages/Neos.Demo/Styles/Backend.css" media="all" />
+			
+		CONTENT_CACHEa51bd74bcbd564fd79689c654635cc00CONTENT_CACHE<title>Newborn/Kinder - Fotografie - Neos Demo Site</title><meta name="robots" content="index,follow" /><link rel="canonical" href="http://localhost/de/fotografie/kinderfotografie@user-janina;language=de.html" />CONTENT_CACHE17cc12d604a96cc94f6358cdfdce3ef5CONTENT_CACHE
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+    <script>window.neos = window.parent.neos;</script>
+    <script src="http://localhost/_Resources/Static/Packages/Neos.Neos.Ui.Compiled/JavaScript/Vendor.js"></script>
+    <script src="http://localhost/_Resources/Static/Packages/Neos.Neos.Ui/Plugins/ckeditor/ckeditor.js"></script>
+    <script src="http://localhost/_Resources/Static/Packages/Neos.Neos.Ui.Compiled/JavaScript/Guest.js"></script>
+    <link rel="stylesheet" href="http://localhost/_Resources/Static/Packages/Neos.Neos.Ui.Compiled/Styles/Host.css">
+</head><body class="neos-backend"><div data-preview-uri="/de/fotografie/kinderfotografie.html"></div>
+			<div class="top-navigation-wrap">
+				<div class="container">
+					CONTENT_CACHEd93fd0ca96dc432957d50802ef522911CONTENT_CACHE
+					CONTENT_CACHEe514c97d846f0d0495293327643e0184CONTENT_CACHE
+					CONTENT_CACHE50fea257393b24e8e035bf244fed9ec4CONTENT_CACHE
+				</div>
+			</div>
+
+			
+
+			<div class="container">
+				CONTENT_CACHEa6d1dd28b4721e78aa53a7e151226e45CONTENT_CACHE
+				CONTENT_CACHE9106c96c24d2067af64cda1728a5bc5aCONTENT_CACHE
+			</div>
+
+			<footer role="navigation" class="navbar navbar-default">
+				<div class="panel panel-default">
+					<div class="panel-body clearfix">
+						<div class="container">
+							CONTENT_CACHE75f710fc8416be33f70198870057ddebCONTENT_CACHE
+						</div>
+					</div>
+					<div class="panel-footer">
+						<div class="container">
+							CONTENT_CACHEdb8123665d37cc88710bad5bb22857c3CONTENT_CACHE
+						</div>
+					</div>
+				</div>
+			</footer>
+
+		
+			<script src="http://localhost/_Resources/Static/Packages/Neos.Twitter.Bootstrap/Libraries/jQuery/jquery-1.10.1.min.js"></script>
+			<script src="http://localhost/_Resources/Static/Packages/Neos.Twitter.Bootstrap/3/js/bootstrap.min.js"></script>
+			<script src="http://localhost/_Resources/Static/Packages/Neos.Demo/JavaScript/main.min.js"></script>
+		<div id="neos-new-backend-container"></div><script data-neos-node="/sites/neosdemo/node-ark1jsdhsmrde/node-pdp83des91e7b@user-janina;language=de" src="http://localhost/_Resources/Static/Packages/Neos.Neos/JavaScript/LastVisitedNode.js" async></script><script>(function(){(this['@Neos.Neos.Ui:Nodes'] = this['@Neos.Neos.Ui:Nodes'] || {})['/sites/neosdemo/node-ark1jsdhsmrde/node-pdp83des91e7b/teaser@user-janina;language=de'] = {"contextPath":"\/sites\/neosdemo\/node-ark1jsdhsmrde\/node-pdp83des91e7b\/teaser@user-janina;language=de","name":"teaser","identifier":"b145aa1c-71c4-4ec1-9aff-01b8d23a5b2e","nodeType":"Neos.Neos:ContentCollection","label":"Content Collection (teaser)","isAutoCreated":true,"depth":5,"children":[{"contextPath":"\/sites\/neosdemo\/node-ark1jsdhsmrde\/node-pdp83des91e7b\/teaser\/node-bazhjgpz12ucf@user-janina;language=de","nodeType":"Neos.NodeTypes:Image"}],"matchesCurrentDimensions":true,"properties":{"_removed":false,"_creationDateTime":"2018-11-25T22:34:19+00:00","_lastModificationDateTime":"2018-11-25T22:37:57+00:00","_lastPublicationDateTime":"2018-11-25T22:37:55+00:00","_path":"\/sites\/neosdemo\/node-ark1jsdhsmrde\/node-pdp83des91e7b\/teaser","_name":"teaser","_nodeType":"Neos.Neos:ContentCollection"},"isFullyLoaded":true}})()</script><script>(function(){(this['@Neos.Neos.Ui:Nodes'] = this['@Neos.Neos.Ui:Nodes'] || {})['/sites/neosdemo/node-ark1jsdhsmrde/node-pdp83des91e7b/teaser/node-bazhjgpz12ucf@user-janina;language=de'] = {"contextPath":"\/sites\/neosdemo\/node-ark1jsdhsmrde\/node-pdp83des91e7b\/teaser\/node-bazhjgpz12ucf@user-janina;language=de","name":"node-bazhjgpz12ucf","identifier":"70bf1943-2ec1-40ff-89e1-34fc016c8f2e","nodeType":"Neos.NodeTypes:Image","label":"Image","isAutoCreated":false,"depth":6,"children":[],"matchesCurrentDimensions":true,"properties":{"_removed":false,"_creationDateTime":"2018-11-25T22:34:19+00:00","_lastModificationDateTime":"2018-11-25T22:37:57+00:00","_lastPublicationDateTime":"2018-11-25T22:37:55+00:00","_path":"\/sites\/neosdemo\/node-ark1jsdhsmrde\/node-pdp83des91e7b\/teaser\/node-bazhjgpz12ucf","_name":"node-bazhjgpz12ucf","_nodeType":"Neos.NodeTypes:Image","_hidden":false,"_hiddenBeforeDateTime":null,"_hiddenAfterDateTime":null,"image":{"__identity":"7b017e2b-1a5f-4b53-aece-bd1fc4a0a24e","__type":"Neos\\Media\\Domain\\Model\\ImageVariant","originalAsset":{"__identity":"e2da8927-a574-4b41-a765-22daed7eca6c"},"adjustments":{"Neos\\Media\\Domain\\Model\\Adjustment\\CropImageAdjustment":{"height":1594,"position":10,"width":5184,"x":0,"y":0}}},"alternativeText":"","title":"","link":"","hasCaption":false,"caption":"","alignment":""},"isFullyLoaded":true}})()</script><script type="application/javascript">
+    document.addEventListener("DOMContentLoaded", function () {
+        var event = new CustomEvent("Neos.Neos.Ui.ContentReady");
+        window.parent.document.dispatchEvent(event);
+    });
+</script>
+</body></html>Node_%eb4cb258bd0e2ca71beaa6ac313b3c48%_77c168d3-3c17-4db1-aa38-0fba3674705d0             6076      

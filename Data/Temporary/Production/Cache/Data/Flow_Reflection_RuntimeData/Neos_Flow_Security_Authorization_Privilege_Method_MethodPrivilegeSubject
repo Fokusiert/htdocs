@@ -1,0 +1,1 @@
+a:2:{i:9;a:1:{s:9:"joinPoint";a:2:{i:24;i:2;i:14;a:1:{s:3:"var";a:1:{i:0;s:32:"Neos\Flow\Aop\JoinPointInterface";}}}}i:8;a:2:{s:11:"__construct";a:3:{i:12;i:3;i:25;N;i:13;a:1:{s:9:"joinPoint";a:3:{i:16;i:0;i:20;s:32:"Neos\Flow\Aop\JoinPointInterface";i:18;s:32:"Neos\Flow\Aop\JoinPointInterface";}}}s:12:"getJoinPoint";a:2:{i:12;i:3;i:25;s:33:"\Neos\Flow\Aop\JoinPointInterface";}}}

@@ -1,0 +1,1 @@
+return function ($context) {return ((($_0=$context->getAndWrap('nodeAvailable')) instanceof \Neos\Eel\Context?$_0->unwrap():$_0)?($context->callAndWrap('q', array($context->getAndWrap('node')))->callAndWrap('context', array($context->wrap(array())->push(TRUE,'removedContentShown')))->callAndWrap('children', array('[_removed = true]'))):($context->wrap(array())));};

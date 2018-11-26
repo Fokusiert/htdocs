@@ -1,0 +1,25 @@
+
+
+	
+		<nav class="navbar second-level-navigation" role="navigation">
+			<ul class="nav nav-pills">
+				
+					<li class="normal">
+						<a href="/de/workshops/bildbearbeitung.html">Bildbearbeitung</a>
+					</li>
+				
+					<li class="normal">
+						<a href="/de/workshops/fotografie-basic.html">Fotografie - Basic</a>
+					</li>
+				
+					<li class="current">
+						<a href="/de/workshops/fotografie-advanced.html">Fotografie - Advanced</a>
+					</li>
+				
+			</ul>
+		</nav>
+	
+
+
+
+NodeType_%d0dbe915091d400bd8ee7f27f0791303%_Neos_Neos-Document0             478       

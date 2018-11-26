@@ -1,0 +1,18 @@
+<div data-__neos-node-contextpath="/sites/neosdemo/node-yw7k2qvqwm9sx/main@user-janina;language=de" data-__neos-fusion-path="root&lt;Neos.Fusion:Case&gt;/documentType&lt;Neos.Fusion:Matcher&gt;/element&lt;Neos.NodeTypes:Page&gt;/body&lt;Neos.Fusion:Template&gt;/content/main&lt;Neos.Neos:PrimaryContent&gt;/default&lt;Neos.Fusion:Matcher&gt;/renderer" class="neos-contentcollection">
+<div data-__neos-node-contextpath="/sites/neosdemo/node-yw7k2qvqwm9sx/main/node-l70nn0vzjljpr@user-janina;language=de" data-__neos-fusion-path="root&lt;Neos.Fusion:Case&gt;/documentType&lt;Neos.Fusion:Matcher&gt;/element&lt;Neos.NodeTypes:Page&gt;/body&lt;Neos.Fusion:Template&gt;/content/main&lt;Neos.Neos:PrimaryContent&gt;/default&lt;Neos.Fusion:Matcher&gt;/renderer&lt;Neos.Neos:ContentCollection&gt;/content&lt;Neos.Neos:ContentCollectionRenderer&gt;/itemRenderer&lt;Neos.Neos:ContentCase&gt;/default&lt;Neos.Fusion:Matcher&gt;/element&lt;Neos.NodeTypes:Image&gt;" class="neos-nodetypes-image">
+	
+<figure>
+	
+
+
+		
+				
+	<img src="http://localhost/_Resources/Persistent/3e605203a4557ad229ce51a012917b5f54fe2327/william-bayreuther-586504-unsplash-2560x1440.jpg" width="2560" height="1440" />
+
+			
+	
+
+
+	
+</figure>
+</div><script data-neos-nodedata>(function(){(this['@Neos.Neos.Ui:Nodes'] = this['@Neos.Neos.Ui:Nodes'] || {})['/sites/neosdemo/node-yw7k2qvqwm9sx/main/node-l70nn0vzjljpr@user-janina;language=de'] = {"contextPath":"\/sites\/neosdemo\/node-yw7k2qvqwm9sx\/main\/node-l70nn0vzjljpr@user-janina;language=de","name":"node-l70nn0vzjljpr","identifier":"6385632a-852b-49c2-b0cd-cfe687af4b5f","nodeType":"Neos.NodeTypes:Image","label":"Image","isAutoCreated":false,"depth":5,"children":[],"matchesCurrentDimensions":true,"properties":{"_removed":false,"_creationDateTime":"2018-11-05T22:19:38+00:00","_lastModificationDateTime":"2018-11-05T22:20:01+00:00","_lastPublicationDateTime":"2018-11-05T22:20:00+00:00","_path":"\/sites\/neosdemo\/node-yw7k2qvqwm9sx\/main\/node-l70nn0vzjljpr","_name":"node-l70nn0vzjljpr","_nodeType":"Neos.NodeTypes:Image","_hidden":false,"_hiddenBeforeDateTime":null,"_hiddenAfterDateTime":null,"image":{"__identity":"25d735e6-7d14-48d7-afaf-e7b8607c9982","__type":"Neos\\Media\\Domain\\Model\\Image"},"alternativeText":"","title":"","link":"","hasCaption":false,"caption":"","alignment":""},"isFullyLoaded":true}})()</script></div><script data-neos-nodedata>(function(){(this['@Neos.Neos.Ui:Nodes'] = this['@Neos.Neos.Ui:Nodes'] || {})['/sites/neosdemo/node-yw7k2qvqwm9sx/main@user-janina;language=de'] = {"contextPath":"\/sites\/neosdemo\/node-yw7k2qvqwm9sx\/main@user-janina;language=de","name":"main","identifier":"23da8e81-2794-29aa-1ad4-84b334356024","nodeType":"Neos.Neos:ContentCollection","label":"Content Collection (main)","isAutoCreated":true,"depth":4,"children":[{"contextPath":"\/sites\/neosdemo\/node-yw7k2qvqwm9sx\/main\/node-l70nn0vzjljpr@user-janina;language=de","nodeType":"Neos.NodeTypes:Image"}],"matchesCurrentDimensions":true,"properties":{"_removed":false,"_creationDateTime":"2018-11-05T16:22:57+00:00","_lastModificationDateTime":"2018-11-05T22:20:01+00:00","_lastPublicationDateTime":"2018-11-05T22:20:00+00:00","_path":"\/sites\/neosdemo\/node-yw7k2qvqwm9sx\/main","_name":"main","_nodeType":"Neos.Neos:ContentCollection"},"isFullyLoaded":true}})()</script>DescendantOf_%eb4cb258bd0e2ca71beaa6ac313b3c48%_23da8e81-2794-29aa-1ad4-84b334356024 Node_%eb4cb258bd0e2ca71beaa6ac313b3c48%_23da8e81-2794-29aa-1ad4-84b3343560240             3303      

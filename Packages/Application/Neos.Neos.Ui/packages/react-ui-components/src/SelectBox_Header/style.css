@@ -1,0 +1,40 @@
+
+.selectBoxHeader {
+    display: flex;
+    width: 100%;
+}
+
+.selectBoxHeader__innerPreview {
+    overflow: hidden;
+    width: 100%;
+}
+
+.selectBoxHeader__icon {
+    composes: reset from './../reset.css';
+    line-height: var(--spacing-GoldenUnit);
+    height: 100%;
+}
+
+.selectBoxHeader__seperator {
+    display: block;
+    content: '';
+    position: absolute;
+    width: 1px;
+    height: 24px;
+    top: calc(50% - 12px);
+    right: calc(var(--spacing-GoldenUnit) + 1px);
+    background-color: #fff;
+    opacity: .15;
+}
+
+.selectBoxHeader__label {
+    padding: 0 var(--spacing-Full);
+}
+
+.selectBoxHeader__wrapperIconWrapper {
+    padding: 0 var(--spacing-Full);
+}
+
+.selectBoxHeader--disabled {
+    cursor: not-allowed;
+}

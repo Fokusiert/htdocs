@@ -1,0 +1,111 @@
+Exception #1300360480: Error: During import an exception occurred: "Package "Mw.OnePageAgencySite" specified in the XML as site resources package does not exist.".
+
+36 Neos\Neos\Domain\Service\SiteImportService_Original::importFromPackage("fokussiert.test")
+35 call_user_func_array(array|2|, array|1|)
+34 Neos\Flow\ObjectManagement\DependencyInjection\DependencyProxy::__call("importFromPackage", array|1|)
+33 Neos\Neos\Controller\Module\Administration\SitesController_Original::importSiteAction("fokussiert.test")
+32 Neos\Neos\Controller\Module\Administration\SitesController::importSiteAction("fokussiert.test")
+31 call_user_func_array(array|2|, array|1|)
+30 Neos\Neos\Controller\Module\Administration\SitesController::Flow_Aop_Proxy_invokeJoinPoint(Neos\Flow\Aop\JoinPoint)
+29 Neos\Flow\Aop\Advice\AdviceChain::proceed(Neos\Flow\Aop\JoinPoint)
+28 Neos\Flow\Security\Aspect\PolicyEnforcementAspect_Original::enforcePolicy(Neos\Flow\Aop\JoinPoint)
+27 Neos\Flow\Aop\Advice\AroundAdvice::invoke(Neos\Flow\Aop\JoinPoint)
+26 Neos\Flow\Aop\Advice\AdviceChain::proceed(Neos\Flow\Aop\JoinPoint)
+25 Neos\Neos\Controller\Module\Administration\SitesController::importSiteAction("fokussiert.test")
+24 call_user_func_array(array|2|, array|1|)
+23 Neos\Flow\Mvc\Controller\ActionController_Original::callActionMethod()
+22 Neos\Flow\Mvc\Controller\ActionController_Original::processRequest(Neos\Flow\Mvc\ActionRequest, Neos\Flow\Http\Response)
+21 Neos\Flow\Mvc\Dispatcher_Original::initiateDispatchLoop(Neos\Flow\Mvc\ActionRequest, Neos\Flow\Http\Response)
+20 Neos\Flow\Mvc\Dispatcher_Original::dispatch(Neos\Flow\Mvc\ActionRequest, Neos\Flow\Http\Response)
+19 Neos\Neos\Controller\Backend\ModuleController_Original::indexAction(array|4|)
+18 Neos\Neos\Controller\Backend\ModuleController::indexAction(array|4|)
+17 call_user_func_array(array|2|, array|1|)
+16 Neos\Neos\Controller\Backend\ModuleController::Flow_Aop_Proxy_invokeJoinPoint(Neos\Flow\Aop\JoinPoint)
+15 Neos\Flow\Aop\Advice\AdviceChain::proceed(Neos\Flow\Aop\JoinPoint)
+14 Neos\Flow\Security\Aspect\PolicyEnforcementAspect_Original::enforcePolicy(Neos\Flow\Aop\JoinPoint)
+13 Neos\Flow\Aop\Advice\AroundAdvice::invoke(Neos\Flow\Aop\JoinPoint)
+12 Neos\Flow\Aop\Advice\AdviceChain::proceed(Neos\Flow\Aop\JoinPoint)
+11 Neos\Neos\Controller\Backend\ModuleController::indexAction(array|4|)
+10 call_user_func_array(array|2|, array|1|)
+9 Neos\Flow\Mvc\Controller\ActionController_Original::callActionMethod()
+8 Neos\Flow\Mvc\Controller\ActionController_Original::processRequest(Neos\Flow\Mvc\ActionRequest, Neos\Flow\Http\Response)
+7 Neos\Flow\Mvc\Dispatcher_Original::initiateDispatchLoop(Neos\Flow\Mvc\ActionRequest, Neos\Flow\Http\Response)
+6 Neos\Flow\Mvc\Dispatcher_Original::dispatch(Neos\Flow\Mvc\ActionRequest, Neos\Flow\Http\Response)
+5 Neos\Flow\Mvc\DispatchComponent_Original::handle(Neos\Flow\Http\Component\ComponentContext)
+4 Neos\Flow\Http\Component\ComponentChain_Original::handle(Neos\Flow\Http\Component\ComponentContext)
+3 Neos\Flow\Http\Component\ComponentChain_Original::handle(Neos\Flow\Http\Component\ComponentContext)
+2 Neos\Flow\Http\RequestHandler::handleRequest()
+1 Neos\Flow\Core\Bootstrap::run()
+
+Previous exception: Exception #1303891443 in line 152 of C:\Bitnami\neos-4.1.7-neu\apps\neos\htdocs\Data\Temporary\Production\Cache\Code\Flow_Object_Classes\Neos_Neos_Domain_Service_SiteImportService.php: Package "Mw.OnePageAgencySite" specified in the XML as site resources package does not exist.
+
+37 Neos\Neos\Domain\Service\SiteImportService_Original::importFromFile("resource://fokussiert.test/Private/Content/Sites.xml")
+36 Neos\Neos\Domain\Service\SiteImportService_Original::importFromPackage("fokussiert.test")
+35 call_user_func_array(array|2|, array|1|)
+34 Neos\Flow\ObjectManagement\DependencyInjection\DependencyProxy::__call("importFromPackage", array|1|)
+33 Neos\Neos\Controller\Module\Administration\SitesController_Original::importSiteAction("fokussiert.test")
+32 Neos\Neos\Controller\Module\Administration\SitesController::importSiteAction("fokussiert.test")
+31 call_user_func_array(array|2|, array|1|)
+30 Neos\Neos\Controller\Module\Administration\SitesController::Flow_Aop_Proxy_invokeJoinPoint(Neos\Flow\Aop\JoinPoint)
+29 Neos\Flow\Aop\Advice\AdviceChain::proceed(Neos\Flow\Aop\JoinPoint)
+28 Neos\Flow\Security\Aspect\PolicyEnforcementAspect_Original::enforcePolicy(Neos\Flow\Aop\JoinPoint)
+27 Neos\Flow\Aop\Advice\AroundAdvice::invoke(Neos\Flow\Aop\JoinPoint)
+26 Neos\Flow\Aop\Advice\AdviceChain::proceed(Neos\Flow\Aop\JoinPoint)
+25 Neos\Neos\Controller\Module\Administration\SitesController::importSiteAction("fokussiert.test")
+24 call_user_func_array(array|2|, array|1|)
+23 Neos\Flow\Mvc\Controller\ActionController_Original::callActionMethod()
+22 Neos\Flow\Mvc\Controller\ActionController_Original::processRequest(Neos\Flow\Mvc\ActionRequest, Neos\Flow\Http\Response)
+21 Neos\Flow\Mvc\Dispatcher_Original::initiateDispatchLoop(Neos\Flow\Mvc\ActionRequest, Neos\Flow\Http\Response)
+20 Neos\Flow\Mvc\Dispatcher_Original::dispatch(Neos\Flow\Mvc\ActionRequest, Neos\Flow\Http\Response)
+19 Neos\Neos\Controller\Backend\ModuleController_Original::indexAction(array|4|)
+18 Neos\Neos\Controller\Backend\ModuleController::indexAction(array|4|)
+17 call_user_func_array(array|2|, array|1|)
+16 Neos\Neos\Controller\Backend\ModuleController::Flow_Aop_Proxy_invokeJoinPoint(Neos\Flow\Aop\JoinPoint)
+15 Neos\Flow\Aop\Advice\AdviceChain::proceed(Neos\Flow\Aop\JoinPoint)
+14 Neos\Flow\Security\Aspect\PolicyEnforcementAspect_Original::enforcePolicy(Neos\Flow\Aop\JoinPoint)
+13 Neos\Flow\Aop\Advice\AroundAdvice::invoke(Neos\Flow\Aop\JoinPoint)
+12 Neos\Flow\Aop\Advice\AdviceChain::proceed(Neos\Flow\Aop\JoinPoint)
+11 Neos\Neos\Controller\Backend\ModuleController::indexAction(array|4|)
+10 call_user_func_array(array|2|, array|1|)
+9 Neos\Flow\Mvc\Controller\ActionController_Original::callActionMethod()
+8 Neos\Flow\Mvc\Controller\ActionController_Original::processRequest(Neos\Flow\Mvc\ActionRequest, Neos\Flow\Http\Response)
+7 Neos\Flow\Mvc\Dispatcher_Original::initiateDispatchLoop(Neos\Flow\Mvc\ActionRequest, Neos\Flow\Http\Response)
+6 Neos\Flow\Mvc\Dispatcher_Original::dispatch(Neos\Flow\Mvc\ActionRequest, Neos\Flow\Http\Response)
+5 Neos\Flow\Mvc\DispatchComponent_Original::handle(Neos\Flow\Http\Component\ComponentContext)
+4 Neos\Flow\Http\Component\ComponentChain_Original::handle(Neos\Flow\Http\Component\ComponentContext)
+3 Neos\Flow\Http\Component\ComponentChain_Original::handle(Neos\Flow\Http\Component\ComponentContext)
+2 Neos\Flow\Http\RequestHandler::handleRequest()
+1 Neos\Flow\Core\Bootstrap::run()
+
+
+HTTP REQUEST:
+POST /neos/administration/sites/createsitepackage.html HTTP/1.1
+Host: localhost
+Cache-Control: max-age=0
+Connection: keep-alive
+Content-Length: 1127
+Origin: http://localhost
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://localhost/neos/administration/sites/newsite.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7
+
+moduleArguments%5B__referrer%5D%5B%40package%5D=Neos.Neos&moduleArguments%5B__referrer%5D%5B%40subpackage%5D=&moduleArguments%5B__referrer%5D%5B%40controller%5D=Module%5CAdministration%5CSites&moduleArguments%5B__referrer%5D%5B%40action%5D=newSite&moduleArguments%5B__referrer%5D%5Barguments%5D=YTowOnt92f9ac042895edfd8fc6ec9a9e3549704d1c2eca2&__referrer%5B%40package%5D=Neos.Neos&__referrer%5B%40subpackage%5D=&__referrer%5B%40controller%5D=Backend%5CModule&__referrer%5B%40action%5D=index&__referrer%5Barguments%5D=YToxOntzOjY6Im1vZHVsZSI7YTo0OntzOjY6Im1vZHVsZSI7czoyMDoiYWRtaW5pc3RyYXRpb24vc2l0ZXMiO3M6MTA6ImNvbnRyb2xsZXIiO3M6NTg6Ik5lb3NcTmVvc1xDb250cm9sbGVyXE1vZHVsZVxBZG1pbmlzdHJhdGlvblxTaXRlc0NvbnRyb2xsZXIiO3M6NjoiYWN0aW9uIjtzOjc6Im5ld3NpdGUiO3M6NjoiZm9ybWF0IjtzOjQ6Imh0bWwiO31914a16f5c815448c9cbc75290990e7f8f8e824414&moduleArguments%5B__trustedProperties%5D=a%3A2%3A%7Bs%3A10%3A%22packageKey%22%3Bi%3A1%3Bs%3A8%3A%22siteName%22%3Bi%3A1%3B%7Da37a7cc738e37077485b91d6cbc2cdc96d6ddb45&__csrfToken=eb1570bdfb83beb3152ebba89af9b621&moduleArguments%5BpackageKey%5D=fokussiert.test&moduleArguments%5BsiteName%5D=fokussiert.de
+
+HTTP RESPONSE:
+[response was empty]
+
+PHP PROCESS:
+Inode: 20091
+PID: 484
+UID: 0
+GID: 0
+User: SYSTEM
+
+    [array] => 
+        previousException:
+        [string] => Exception #1303891443 in line 152 of C:\Bitnami\neos-4.1.7-neu\apps\neos\htdocs\Data\Temporary\Production\Cache\Code\Flow_Object_Classes\Neos_Neos_Domain_Service_SiteImportService.php: Package "Mw.OnePageAgencySite" specified in the XML as site resources package does not exist.
+
